@@ -4,7 +4,7 @@ import ALogo from "../images/ALogo.png"
 export default function Navbar() {
     return (
         <nav>
-            <img src={ALogo} alt="airbnb logo" className="nav--logo"/>
+            <img src={ALogo} alt="airbnb logo"/>
         </nav>
     )
 }
